@@ -39,6 +39,6 @@ This program was developed as a learning exercise and may not be suitable for pr
 
 ## Contact
 
-If you have any questions or feedback, please feel free to contact [Iryna] via email at [irinazimnitskaya19@gmail.com](mailto:irinazimnitskaya19@gmail.com).
+If you have any questions or feedback, please feel free to contact Iryna via email at [irinazimnitskaya19@gmail.com](mailto:irinazimnitskaya19@gmail.com).
 
 
